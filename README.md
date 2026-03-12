@@ -1,3 +1,5 @@
+[GitHub Profile Views Counter]: https://github.com/techdeepdive/github-profile-views-counter
+
 # Prompts For All
 
 ⭐ **If you find this repository helpful, please consider giving it a star!** Also, be sure to check out more from [TechDeepDive](https://github.com/techdeepdive). ⭐
@@ -64,5 +66,3 @@ This repository is to share the knowledge as much as you can for all prompts of 
     </td>
   </tr>
 </table>
-
-[GitHub Profile Views Counter]: https://github.com/techdeepdive/github-profile-views-counter
